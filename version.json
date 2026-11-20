@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.9",
+  "versionCode": 12,
+  "versionName": "1.10",
   "apkUrl": "https://github.com/gamez10480-coder/legendarios-app/releases/latest/download/app-carreras.apk",
-  "notes": "Legendarios 1.9: ahora la app avisa sola cuando hay una versión nueva y se actualiza desde adentro."
+  "notes": "Legendarios 1.10: el historial muestra el detalle con todos los parciales y la imagen para compartir ya incluye la carrera completa."
 }
