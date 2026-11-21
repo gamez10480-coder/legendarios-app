@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.10",
+  "versionCode": 13,
+  "versionName": "1.11",
   "apkUrl": "https://github.com/gamez10480-coder/legendarios-app/releases/latest/download/app-carreras.apk",
-  "notes": "Legendarios 1.10: el historial muestra el detalle con todos los parciales y la imagen para compartir ya incluye la carrera completa."
+  "notes": "Legendarios 1.11: botones de velocidad en vivo con tu caminadora, la meta avisa y la sesión sigue, recuperación final de 3 minutos, reto 5K en 30 y ajuste automático con tu reloj al sincronizar."
 }
