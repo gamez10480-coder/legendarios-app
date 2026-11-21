@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.12",
+  "versionCode": 15,
+  "versionName": "1.13",
   "apkUrl": "https://github.com/gamez10480-coder/legendarios-app/releases/latest/download/app-carreras.apk",
-  "notes": "Legendarios 1.12: llegan los retos — 5K en 30, 5K en 28, 10K, Resistencia 60, Pirámide y 1K a fondo."
+  "notes": "Legendarios 1.13: corrección de la sincronización con el reloj — las sesiones que coinciden se fusionan solas con la distancia real del reloj."
 }
